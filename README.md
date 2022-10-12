@@ -20,7 +20,7 @@
    <ul>
      <li><a href="https://docs.google.com/document/d/19H6M8OiqFbkpUpWeDHnbB8SM5dWQsqswC6jTlR3PWr8/edit?usp=sharing" rel="nofollow">Functional requirements</a></li>
      <li><a href=" " rel="nofollow">Checklists</a></li>
-     <li><a href=" " rel="nofollow">Test-Suites and Test-Cases</a></li>
+     <li><a href="https://docs.google.com/spreadsheets/d/1kQ5lf75boYFk-N7v0GVa5WNDPjaiNXHkf07-FFUPuAY/edit?usp=sharing" rel="nofollow">Test-Suites and Test-Cases</a></li>
      <li><a href=" " rel="nofollow">Bug-Reports</a></li>
      <li><a href=" " rel="nofollow">Postman Collections</a></li>
    </ul>
