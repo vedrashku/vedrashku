@@ -27,7 +27,10 @@
 
 
 ## Follow me
-![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook) ![linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin) ![instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram) 
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100000179365696) 
+[![linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cristian-vedrashku-b93429235/) 
+[![instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/ciombik/)
+[![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/xbeats_shop)
 
 [![vedrashku's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedrashku)](https://github.com/vedrashku/github-readme-stats)
 
