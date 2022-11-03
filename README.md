@@ -3,7 +3,7 @@
 ## I'm a beginner QA manual
 
 ## MY CV
-<a href="https://drive.google.com/file/d/1yOrSd80NNQwMLpVTg7FQYxckg42ey9CE/view?usp=sharing" rel="nofollow">CV</a> <br>
+<a href="https://drive.google.com/file/d/1Crko-Fk9-zSDKUDHFb1b3EVNJ9HMPOUl/view?usp=sharing" rel="nofollow">CV</a> <br>
 <a href="https://drive.google.com/file/d/1hUQnD1CHxQZywegBN2LWWmyqKoMzcCyI/view?usp=sharing" rel="nofollow">Cover</a>
 
 ### Languages and Tools
